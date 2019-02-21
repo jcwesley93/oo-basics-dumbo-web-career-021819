@@ -31,7 +31,12 @@ class Shoe
   
   def material=(material)
     @material = "suede"
-    readlines
+  end
+  
+  def material
+    @material
+  end
+  
     
   
 end
