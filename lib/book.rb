@@ -32,6 +32,7 @@ end
 def genre
   @genre
 end
+
 end
 
 
